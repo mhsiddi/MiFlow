@@ -30,6 +30,7 @@ namespace MiTrainer.API.Controllers
             return Json<Person>(p);
         }
 
+        // random change
         public IHttpActionResult Post([FromBody] Person person)
         {
             try
