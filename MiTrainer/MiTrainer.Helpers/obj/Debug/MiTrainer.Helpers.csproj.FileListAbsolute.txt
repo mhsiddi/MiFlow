@@ -1,0 +1,5 @@
+c:\users\shaikh\documents\visual studio 2013\Projects\MiTrainer\MiTrainer.Helpers\bin\Debug\MiTrainer.Helpers.dll
+c:\users\shaikh\documents\visual studio 2013\Projects\MiTrainer\MiTrainer.Helpers\bin\Debug\MiTrainer.Helpers.pdb
+c:\users\shaikh\documents\visual studio 2013\Projects\MiTrainer\MiTrainer.Helpers\obj\Debug\MiTrainer.Helpers.csprojResolveAssemblyReference.cache
+c:\users\shaikh\documents\visual studio 2013\Projects\MiTrainer\MiTrainer.Helpers\obj\Debug\MiTrainer.Helpers.dll
+c:\users\shaikh\documents\visual studio 2013\Projects\MiTrainer\MiTrainer.Helpers\obj\Debug\MiTrainer.Helpers.pdb
